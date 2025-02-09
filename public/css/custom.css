@@ -1,0 +1,16 @@
+.sticky-col {
+    position: sticky;
+    left: 0;
+    background-color: #f8f9fa;
+}
+
+.sticky-row {
+    position: sticky;
+    top: 0;
+    background-color: #f8f9fa;
+    z-index: 3;
+}
+
+#content{
+    margin-top: 70px;
+}
